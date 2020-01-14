@@ -1,0 +1,17 @@
+Package: v2raya
+Version: 0.6.0
+License: unknown
+Vendor: travis@travis-job-c10118c4-9765-4a8c-bfdc-56dd7b8dbe13
+Architecture: amd64
+Maintainer: <travis@travis-job-c10118c4-9765-4a8c-bfdc-56dd7b8dbe13>
+Installed-Size: 21565
+Homepage: http://example.com/no-uri-given
+Priority: extra
+Section: default
+Filename: pool/main/v/v2raya/v2raya_0.6.0_amd64.deb
+Size: 10054436
+SHA256: 4202196e0c1d1d8669ee351134215d5366a9617e38d3ce64df5d0c116f3d7b7d
+SHA1: 37874bc18f1370f9910814c6264e68706beedd83
+MD5sum: 21c91188c5cdbb5156e86475857ad165
+Description: no description given
+
